@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MOS_23xx")(type "KiCad")(uri "${KIPRJMOD}/MOS_23xx.pretty/MOS_23xx.kicad_sym")(options "")(descr ""))
+  (lib (name "BeaupreCircuitDesign")(type "KiCad")(uri "${KIPRJMOD}/BeaupreCircuitDesign.pretty/BeaupreCircuitDesign.kicad_sym")(options "")(descr ""))
+  (lib (name "CreativeCommons")(type "KiCad")(uri "${KIPRJMOD}/Creative_Common.pretty/CreativeCommons.kicad_sym")(options "")(descr ""))
+)
