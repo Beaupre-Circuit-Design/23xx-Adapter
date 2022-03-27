@@ -53,7 +53,7 @@ Depending on the size of the original and replacement rom, address lines 11 to 1
 
 |Solder Pads|1.27mm Header|
 |:---------:|:-----------:|
-|<img src="images/bankswitch2.png" height=320px>|<img src="images/bankswitch.png" height=320px>|
+|<img src="Images/bankswitch2.png" height=320px>|<img src="Images/bankswitch.png" height=320px>|
 
 # Components and assembly
 
